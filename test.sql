@@ -1,0 +1,1 @@
+Select top * from objectname where whatever
